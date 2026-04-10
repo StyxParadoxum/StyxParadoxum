@@ -1,16 +1,59 @@
-## Oi 👋
+# 👨‍💻 Gabriel Guimarães Henrici
 
-<!--
-**StyxParadoxum/StyxParadoxum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student at UFRJ  
+📊 Focused on Data Science and Data Engineering 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Technical Skills
+
+### 🐍 Languages & Tools
+- **Python (Advanced)**   
+
+- **R (Intermediate)**  
+
+---
+
+### 🗄️ Databases
+- MySQL  
+- PostgreSQL  
+- NoSQL  
+
+📌 Knowledge in:
+- Data modeling (conceptual, logical, and physical)  
+- Data Warehousing  
+- Dimensional modeling  
+- Big Data concepts  
+
+---
+
+### ⚙️ Data Engineering
+- Apache Kafka  
+- Apache NiFi  
+- Apache Airflow  
+- Snowflake  
+
+📌 Experience with:
+- Data pipelines  
+- Data integration and orchestration  
+- Data processing and storage  
+
+---
+
+### 📊 Data Science & Machine Learning
+- Data collection, cleaning, and analysis  
+- Probability and Statistics  
+- Statistical inference  
+- Supervised and unsupervised learning  
+- Model evaluation (bias, variance, overfitting)  
+- Regularization techniques  
+- Deep neural networks  
+- Reinforcement learning (concepts)  
+
+---
+
+## 🌍 Languages
+
+- 🇧🇷 Portuguese — Native  
+- 🇺🇸 English — Fluent  
+- 🇪🇸 Spanish — Basic  
